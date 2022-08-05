@@ -8,7 +8,6 @@
 student_id 学号  
 
 password 密码  
-password
 
 sckey 在 [Server酱-发送消息](http://sc.ftqq.com/?c=code) 绑定微信找到SCKEY填入  
 
